@@ -1,2 +1,2 @@
 # Forecasting
-This repository contains my assignment on forecasting for my data science course.
+This repository contains my assignment on forecasting for my data science course. I explored various forecasting techniques to predict future trends in a time series dataset. The project involved data preprocessing, exploratory data analysis, and the implementation of popular forecasting models such as ARIMA, SARIMA, and Prophet. The repository contains the code, datasets, and a comprehensive report summarizing the findings and insights gained from the forecasting process. This project aims to demonstrate my proficiency in time series analysis and forecasting using Python and its associated data science libraries.
